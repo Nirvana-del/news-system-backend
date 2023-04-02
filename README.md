@@ -12,4 +12,4 @@
 
 ④config.js中同样修改成你自己的邮箱和授权码
 
-ps:前台代码可见主页另一个仓库
+ps:前台代码可见主页另一个仓库https://github.com/Nirvana-del/library-system
